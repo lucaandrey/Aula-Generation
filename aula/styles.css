@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  background: linear-gradient(to right, #00aaff, #00ff6c);
+}
+h2 {
+  font-family: "Arvo", cursive;
+  color: black;
+}
+button {
+  background-color: #black; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #00f7ff;
+  color: white;
+}
